@@ -1,0 +1,40 @@
+@font-face{
+	font-family: 'Apercu';
+	src: url("webfonts/apercu_regular.eot");
+	src: url("webfonts/apercu_regular.svg") format("svg"),
+		url("webfonts/apercu_regular.ttf") format("truetype"),
+		url("webfonts/apercu_regular.woff") format("woff"),
+		url("webfonts/apercu_regular.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Apercu';
+	src: url("webfonts/apercu_regular_italic.eot");
+	src: url("webfonts/apercu_regular_italic.svg") format("svg"),
+		url("webfonts/apercu_regular_italic.ttf") format("truetype"),
+		url("webfonts/apercu_regular_italic.woff") format("woff"),
+		url("webfonts/apercu_regular_italic.woff2") format("woff2");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face{
+	font-family: 'Apercu';
+	src: url("webfonts/apercu_bold.eot");
+	src: url("webfonts/apercu_bold.svg") format("svg"),
+		url("webfonts/apercu_bold.ttf") format("truetype"),
+		url("webfonts/apercu_bold.woff") format("woff"),
+		url("webfonts/apercu_bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Apercu';
+	src: url("webfonts/apercu_bold_italic.eot");
+	src: url("webfonts/apercu_bold_italic.svg") format("svg"),
+		url("webfonts/apercu_bold_italic.ttf") format("truetype"),
+		url("webfonts/apercu_bold_italic.woff") format("woff"),
+		url("webfonts/apercu_bold_italic.woff2") format("woff2");
+	font-weight: 700;
+	font-style: italic;
+}
